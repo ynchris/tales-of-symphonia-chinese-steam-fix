@@ -1,6 +1,6 @@
 # 仙乐传说 Steam 汉化兼容补丁
 
-基于 3DM 轩辕汉化组 v2.0 汉化补丁制作，修复新版游戏使用汉化缺少MSAA和Anisotropic filtering，以及4K分辨率的问题。
+基于 3DM 轩辕汉化组 v2.0 汉化补丁制作，修复新版游戏使用汉化缺少MSAA和Anisotropic filtering，以及4K分辨率不正常生效的问题。
 
 ## 使用
 
